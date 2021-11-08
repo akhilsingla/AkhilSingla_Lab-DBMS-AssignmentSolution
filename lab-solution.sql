@@ -1,3 +1,4 @@
+create database MyOnlineDatabase;
 USE MyOnlineDatabase;
 
 CREATE TABLE IF NOT EXISTS Supplier(
